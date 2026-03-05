@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-title: Seminar Homework – PROV Diagram
 message: "If you use this work, please cite it."
 authors:
   - family-names: Liu Jiang
     given-names: Hao Le Eduardo
-doi: 10.5281/zenodo.18882480
+title: Seminar Homework – PROV Diagram
 version: "1.0.0"
-``
+doi: 10.5281/zenodo.18882480
+date-released: 2026-03-05
+url: "https://github.com/NotSadestory/Seminar-Assignment"
