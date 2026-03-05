@@ -13,5 +13,9 @@
   "codeRepository": "https://github.com/NotSadestory/Seminar-Assignment",
   "license": "https://opensource.org/licenses/MIT",
   "version": "1.0.0",
-  "identifier": "10.5281/zenodo.18882480"
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.18882480"
+  }
 }
