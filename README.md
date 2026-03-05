@@ -6,3 +6,9 @@ This is the delivery assignment for the seminar: "The Scientific Paper of the Fu
 
 # Author
 Hao Le Eduardo Liu Jiang
+
+## Contents
+- PROV diagram (PNG)
+- LICENSE
+- codemeta.json
+- CITATION.cff
