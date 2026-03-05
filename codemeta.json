@@ -11,7 +11,7 @@
   ],
   "description": "Repository for Seminar Practical Exercise 1 and 2, including a PROV diagram and metadata.",
   "codeRepository": "https://github.com/NotSadestory/Seminar-Assignment",
-  "license": "MIT",
+  "license": "https://opensource.org/licenses/MIT",
   "version": "1.0.0",
   "identifier": "10.5281/zenodo.18882480"
 }
