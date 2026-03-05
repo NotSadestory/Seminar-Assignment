@@ -4,6 +4,10 @@ This is the delivery assignment for the seminar: "The Scientific Paper of the Fu
 # DOI
 [![DOI](https://zenodo.org/badge/1173930148.svg)](https://doi.org/10.5281/zenodo.18882479)
 
+## Latest Release
+**v1.0.1** - 2026-03-06  
+Second release including full metadata.
+
 # Author
 Hao Le Eduardo Liu Jiang
 
