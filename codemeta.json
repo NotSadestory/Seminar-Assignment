@@ -5,9 +5,6 @@
         {
             "@id": "https://github.com/NotSadestory",
             "@type": "Person"
-        },
-        {
-            "@type": "Person"
         }
     ],
     "codeRepository": "https://github.com/NotSadestory/Seminar-Assignment",
@@ -16,27 +13,19 @@
     "datePublished": "2026-03-05",
     "description": "Repository for Seminar Practical Exercise 1 and 2, including a PROV diagram and metadata.",
     "downloadUrl": "https://github.com/NotSadestory/Seminar-Assignment/releases",
-    "identifier": "https://doi.org/10.5281/zenodo.18882679",
+    "identifier": "https://doi.org/10.5281/zenodo.18882679, https://doi.org/10.5281/zenodo.18882479",
     "license": "https://spdx.org/licenses/MIT",
     "name": "Seminar-Assignment",
     "referencePublication": [
         {
-            "author": [
-                {
-                    "familyName": "Liu Jiang",
-                    "givenName": "Hao Le Eduardo",
-                    "@type": "Person"
-                }
-            ],
-            "datePublished": "2026",
             "identifier": "10.5281/zenodo.18882480",
             "name": "If you use this work, please cite it.",
             "url": "https://doi.org/10.5281/zenodo.18882480",
             "@type": "ScholarlyArticle"
         }
     ],
-    "releaseNotes": "Added codemeta.json, CITATION.cff, LICENSE, and updated README.",
-    "version": "v1.0.1",
+    "releaseNotes": "I corrected some problems and improve the metadata, licenses and citations.",
+    "version": "v1.0.2",
     "issueTracker": "https://github.com/NotSadestory/Seminar-Assignment/issues",
     "@type": "SoftwareSourceCode"
 }
