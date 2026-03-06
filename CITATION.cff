@@ -4,7 +4,7 @@ authors:
   - family-names: Liu Jiang
     given-names: Hao Le Eduardo
 title: Seminar Homework – PROV Diagram
-version: "1.0.2"
+version: "1.0.1"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18882679
