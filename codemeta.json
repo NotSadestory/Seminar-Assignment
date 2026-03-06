@@ -1,23 +1,42 @@
 {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "type": "SoftwareSourceCode",
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "SoftwareSourceCode",
     "author": [
         {
-            "id": "_:author_1",
-            "type": "Person",
-            "familyName": "Liu Jiang",
-            "givenName": "Hao Le Eduardo"
+            "@id": "https://github.com/NotSadestory",
+            "@type": "Person"
+        },
+        {
+            "@type": "Person"
         }
     ],
     "codeRepository": "https://github.com/NotSadestory/Seminar-Assignment",
-    "dateCreated": "2026-03-06",
+    "dateCreated": "2026-03-05",
     "dateModified": "2026-03-06",
     "datePublished": "2026-03-05",
     "description": "Repository for Seminar Practical Exercise 1 and 2, including a PROV diagram and metadata.",
-    "downloadUrl": "https://github.com/NotSadestory/Seminar-Assignment",
+    "downloadUrl": "https://github.com/NotSadestory/Seminar-Assignment/releases",
+    "identifier": "https://doi.org/10.5281/zenodo.18882679",
     "license": "https://spdx.org/licenses/MIT",
-    "name": "Seminar Homework - PROV Diagram",
-    "version": "v1.0.2",
-    "developmentStatus": "inactive",
-    "referencePublication": "https://doi.org/10.5281/zenodo.18882679"
+    "name": "Seminar-Assignment",
+    "referencePublication": [
+        {
+            "author": [
+                {
+                    "familyName": "Liu Jiang",
+                    "givenName": "Hao Le Eduardo",
+                    "@type": "Person"
+                }
+            ],
+            "datePublished": "2026",
+            "identifier": "10.5281/zenodo.18882480",
+            "name": "If you use this work, please cite it.",
+            "url": "https://doi.org/10.5281/zenodo.18882480",
+            "@type": "ScholarlyArticle"
+        }
+    ],
+    "releaseNotes": "Added codemeta.json, CITATION.cff, LICENSE, and updated README.",
+    "version": "v1.0.1",
+    "issueTracker": "https://github.com/NotSadestory/Seminar-Assignment/issues",
+    "@type": "SoftwareSourceCode"
 }
