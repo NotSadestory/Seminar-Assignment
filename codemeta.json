@@ -18,14 +18,14 @@
     "name": "Seminar-Assignment",
     "referencePublication": [
         {
-            "identifier": "10.5281/zenodo.18882480",
+            "identifier": "10.5281/zenodo.18882479",
             "name": "If you use this work, please cite it.",
-            "url": "https://doi.org/10.5281/zenodo.18882480",
+            "url": "https://doi.org/10.5281/zenodo.18882479",
             "@type": "ScholarlyArticle"
         }
     ],
-    "releaseNotes": "I corrected some problems and improve the metadata, licenses and citations.",
-    "version": "v1.0.2",
+    "releaseNotes": "I aligned the released versions with the deploiment versions",
+    "version": "v1.0.3",
     "issueTracker": "https://github.com/NotSadestory/Seminar-Assignment/issues",
     "@type": "SoftwareSourceCode"
 }
